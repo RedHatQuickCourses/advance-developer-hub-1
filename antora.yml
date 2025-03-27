@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: advance-developer-hub-1
+title: Developer Hub Advanced(Module 1)- Laying the Foundation
 version: 1
 nav:
 - modules/ROOT/nav.adoc

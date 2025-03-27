@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Developer Hub Advanced(Module 1) - Laying the Foundation
+  start_page: advance-developer-hub-1::index.adoc
 
 content:
   sources:
